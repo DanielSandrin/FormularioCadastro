@@ -1,5 +1,8 @@
 # Tela Inicial
-![Inicial](https://user-images.githubusercontent.com/40778725/161863197-8ba2af2b-55d0-465a-b085-13b81de2d234.png)
+![Inicial](https://user-images.githubusercontent.com/40778725/168648847-f7d00500-7ece-426e-aeeb-ecd77d2e2aba.png)
+
+# Cadastro
+![Cadastro](https://user-images.githubusercontent.com/40778725/168648862-feca7802-d1a2-43ea-951e-f5e04071f212.png)
 
 # Formulario de Cadastro
 Formulario de cadastro que salva no localStorage
